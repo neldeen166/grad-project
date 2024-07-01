@@ -1379,7 +1379,7 @@ justify-content: center;
   overflow: hidden;
 }
 .add form .form{
-  position: absolute;
+  /* position: absolute; */
   background-color: #fff;
   transition: 0.3s ease;
 }
